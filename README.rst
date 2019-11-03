@@ -3,7 +3,7 @@ Official Sperocoin Electrum Client - reference implementation
 
 -  Licence: GNU GPL v3
 -  Author: Thomas Voegtlin
--  Author: Larry Ren (laudney) forked for Sperocoin
+-  Author: SperoCoin Developers forked for Sperocoin
 -  Language: Python
 -  Homepage: https://sperocoin.org
 
